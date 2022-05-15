@@ -1,2 +1,2 @@
-# connectWallet-and-sendBalance
+# web3Modal
 Created with CodeSandbox
